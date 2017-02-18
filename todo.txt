@@ -1,0 +1,3 @@
+1. Add plugin for popups
+2. Add plugin for slider
+3. Add script for callback form

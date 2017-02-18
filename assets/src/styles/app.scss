@@ -1,0 +1,10 @@
+@import "config";
+@import "bourbon";
+
+.title {
+    &.--main {
+        font-family: 'QuboRegular';
+        font-weight: normal;
+        color: $color4;
+    }
+}

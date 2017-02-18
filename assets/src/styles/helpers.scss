@@ -1,0 +1,37 @@
+@import "config";
+
+.no-gutter > [class*='col-'] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.xs-center {
+  @media (max-width: $screen-xs-max) {
+    text-align: center !important;
+  }
+}
+.xs-left {
+  @media (max-width: $screen-xs-max) {
+    text-align: left !important;
+  }
+}
+.xs-right {
+  @media (max-width: $screen-xs-max) {
+    text-align: right !important;
+  }
+}
+
+.flex {
+  display: flex;
+
+  &.--centered-x {
+    justify-content: center;
+  }
+  &.--centered-y {
+    align-items: center;
+  }
+  &.--centered {
+    align-items: center;
+    justify-content: center;
+  }
+}

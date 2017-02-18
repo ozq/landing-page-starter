@@ -1,0 +1,25 @@
+{
+  "name": "landing-page-starter",
+  "version": "1.0.0",
+  "description": "Landing page development environment",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozq/landing-page-starter.git"
+  },
+  "author": "Sergey Volkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozq/landing-page-starter/issues"
+  },
+  "homepage": "https://github.com/ozq/landing-page-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.0",
+    "gulp-image": "^2.7.2",
+    "gulp-sass": "^3.0.0",
+    "gulp-uglify": "^2.0.0",
+    "node-bourbon": "^4.2.8"
+  }
+}
