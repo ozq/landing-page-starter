@@ -24,13 +24,13 @@
 .flex {
   display: flex;
 
-  &.--centered-x {
+  &.-centered-x {
     justify-content: center;
   }
-  &.--centered-y {
+  &.-centered-y {
     align-items: center;
   }
-  &.--centered {
+  &.-centered {
     align-items: center;
     justify-content: center;
   }

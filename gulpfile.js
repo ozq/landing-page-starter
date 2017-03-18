@@ -63,7 +63,7 @@ gulp.task('styles', function(){
 
 // IMAGES
 gulp.task('images', function () {
-    gulp.src(paths.images)
+    gulp.src(config.paths.images)
         .pipe(images())
         .pipe(gulp.dest(config.paths.dist + '/images'))
         .pipe(browserSync.reload({stream: true}))

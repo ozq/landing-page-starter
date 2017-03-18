@@ -55,8 +55,8 @@
     </script>
 
     <!-- CONTENT -->
-    <section class="flex --centered" style="height: 100vh;">
-        <h1 class="title --main">Let's start</h1>
+    <section class="flex -centered" style="height: 100vh;">
+        <h1 class="title -main">Let's start</h1>
     </section>
 
     <!-- ANALYTICS -->
