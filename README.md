@@ -23,4 +23,4 @@ Environment for quick start landing page development.
    ``npm cache clean``
 2. If you have error, like ``Error: ENOENT: no such file or directory, scandir '.../node_modules/node-sass/vendor...'``, run this command:
 ``npm rebuild node-sass`` _(for windows: ``npm rebuild node-sass --no-bin-links``)_
-3. If you have error while installing node packages, like ``npm ERR! Maximum call stack size exceeded``, just run npm installation command again.
+3. If you have error, like ``npm ERR! Maximum call stack size exceeded``, just run npm installation command again.
