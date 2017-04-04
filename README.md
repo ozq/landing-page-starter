@@ -1,5 +1,5 @@
 # LANDING PAGE STARTER
-This is an environment for quick start landing page development.
+Environment for quick start landing page development.
 
 ## Environment checking
 1. Check, that npm is installed, run this command:  ```npm -v```  
