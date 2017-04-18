@@ -2,5 +2,6 @@ CSS spinners #1: http://tobiasahlin.com/spinkit/
 CSS spinners #2: https://codepen.io/collection/HtAne/
 CSS spinners #3: https://connoratherton.com/loaders
 Cool features: http://tympanus.net/codrops/
+Cool libraries: http://www.vanillalist.com/
 Favicon generator: http://www.favicon-generator.org/
 Color schemes: http://colorhunt.co/
