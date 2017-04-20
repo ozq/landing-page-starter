@@ -5,3 +5,4 @@ Cool features: http://tympanus.net/codrops/
 Cool libraries: http://www.vanillalist.com/
 Favicon generator: http://www.favicon-generator.org/
 Color schemes: http://colorhunt.co/
+Image placeholder service: http://placehold.it/
